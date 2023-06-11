@@ -3,3 +3,7 @@ it is my first time in school.
 
 this is my second time here.how is going
 hello everyone
+
+
+what are you doing right now , 
+have you any porblem , i am learning to code in (git bash) 
